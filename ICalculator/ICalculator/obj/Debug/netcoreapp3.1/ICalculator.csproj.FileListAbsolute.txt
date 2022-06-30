@@ -1,0 +1,14 @@
+C:\Users\mkeri\OneDrive\Desktop\C# Interface\ICalculator\ICalculator\obj\Debug\netcoreapp3.1\ICalculator.csproj.AssemblyReference.cache
+C:\Users\mkeri\OneDrive\Desktop\C# Interface\ICalculator\ICalculator\obj\Debug\netcoreapp3.1\ICalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkeri\OneDrive\Desktop\C# Interface\ICalculator\ICalculator\obj\Debug\netcoreapp3.1\ICalculator.AssemblyInfoInputs.cache
+C:\Users\mkeri\OneDrive\Desktop\C# Interface\ICalculator\ICalculator\obj\Debug\netcoreapp3.1\ICalculator.AssemblyInfo.cs
+C:\Users\mkeri\OneDrive\Desktop\C# Interface\ICalculator\ICalculator\obj\Debug\netcoreapp3.1\ICalculator.csproj.CoreCompileInputs.cache
+C:\Users\mkeri\OneDrive\Desktop\C# Interface\ICalculator\ICalculator\bin\Debug\netcoreapp3.1\ICalculator.exe
+C:\Users\mkeri\OneDrive\Desktop\C# Interface\ICalculator\ICalculator\bin\Debug\netcoreapp3.1\ICalculator.deps.json
+C:\Users\mkeri\OneDrive\Desktop\C# Interface\ICalculator\ICalculator\bin\Debug\netcoreapp3.1\ICalculator.runtimeconfig.json
+C:\Users\mkeri\OneDrive\Desktop\C# Interface\ICalculator\ICalculator\bin\Debug\netcoreapp3.1\ICalculator.runtimeconfig.dev.json
+C:\Users\mkeri\OneDrive\Desktop\C# Interface\ICalculator\ICalculator\bin\Debug\netcoreapp3.1\ICalculator.dll
+C:\Users\mkeri\OneDrive\Desktop\C# Interface\ICalculator\ICalculator\bin\Debug\netcoreapp3.1\ICalculator.pdb
+C:\Users\mkeri\OneDrive\Desktop\C# Interface\ICalculator\ICalculator\obj\Debug\netcoreapp3.1\ICalculator.dll
+C:\Users\mkeri\OneDrive\Desktop\C# Interface\ICalculator\ICalculator\obj\Debug\netcoreapp3.1\ICalculator.pdb
+C:\Users\mkeri\OneDrive\Desktop\C# Interface\ICalculator\ICalculator\obj\Debug\netcoreapp3.1\ICalculator.genruntimeconfig.cache
